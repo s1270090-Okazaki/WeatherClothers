@@ -1,8 +1,6 @@
-
 テスト方法
 1. 「WeatherClothes/WeatherClothes.xcworkspace」を選択し、xcode起動。
 2.  xcode内で実行。
-
 
 アプリ概要
 現在の気温から最適な服装を提案してくれる。
