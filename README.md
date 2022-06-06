@@ -1,4 +1,5 @@
-_テスト方法_
+##テスト方法
+
 1. 「WeatherClothes/WeatherClothes.xcworkspace」を選択し、xcode起動。
 2.  xcode内で実行。
 3.  以下の画面がでれば成功。
